@@ -2,6 +2,10 @@
 
 Table::~Table()
 {
+	free();
+}
+
+void Table::free() {
 	for (size_t i = 0; i < table.size(); i++) {
 		for (size_t j = 0; j < table[i].size(); j++) {
 			delete[] table[i][j];
@@ -9,6 +13,7 @@ Table::~Table()
 		}
 	}
 	isOpen = false;
+	table.clear();
 }
 
 unsigned Table::getRows() const

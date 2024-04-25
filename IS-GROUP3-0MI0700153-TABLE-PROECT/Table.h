@@ -8,6 +8,7 @@ class Table {
 public:
 	Table() = default;
 	~Table();
+	void free();
 	unsigned getRows() const;
 	unsigned getColumns() const;
 	bool isOpenTable() const;
