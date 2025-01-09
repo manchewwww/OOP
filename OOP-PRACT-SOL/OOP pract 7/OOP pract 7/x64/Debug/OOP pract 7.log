@@ -1,0 +1,10 @@
+﻿  MyString.cpp
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\OOP pract 7\OOP pract 7\MyString.cpp(15,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\OOP pract 7\OOP pract 7\MyString.cpp(26,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\OOP pract 7\OOP pract 7\MyString.cpp(54,19): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\OOP pract 7\OOP pract 7\MyString.cpp(90,41): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\OOP pract 7\OOP pract 7\MyString.cpp(91,43): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\OOP pract 7\OOP pract 7\MyString.cpp(114,12): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  OOP pract 7.cpp
+  Generating Code...
+  OOP pract 7.vcxproj -> C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\OOP pract 7\x64\Debug\OOP pract 7.exe
