@@ -1,0 +1,18 @@
+﻿  VECTOR.cpp
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\VECTOR\VECTOR\vec.hpp(304,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\VECTOR\VECTOR\VECTOR.cpp(40,13): message : see reference to function template instantiation 'std::ostream &operator <<<int>(std::ostream &,const VECTOR<int> &)' being compiled
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\VECTOR\VECTOR\vec.hpp(189,12): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\VECTOR\VECTOR\vec.hpp(188,1): message : while compiling class template member function 'T &VECTOR<T>::operator [](int) const'
+          with
+          [
+              T=int
+          ]
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\VECTOR\VECTOR\vec.hpp(308,18): message : see reference to function template instantiation 'T &VECTOR<T>::operator [](int) const' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\VECTOR\VECTOR\vec.hpp(60,28): message : while compiling class template member function 'VECTOR<int>::VECTOR(void)'
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\VECTOR\VECTOR\VECTOR.cpp(11,15): message : see reference to function template instantiation 'VECTOR<int>::VECTOR(void)' being compiled
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\VECTOR\VECTOR\VECTOR.cpp(11,15): message : see reference to class template instantiation 'VECTOR<int>' being compiled
+  VECTOR.vcxproj -> C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\VECTOR\x64\Debug\VECTOR.exe
