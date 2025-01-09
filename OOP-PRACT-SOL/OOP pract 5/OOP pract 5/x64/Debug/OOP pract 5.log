@@ -1,0 +1,4 @@
+﻿  OOP pract 5.cpp
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\OOP pract 5\OOP pract 5\OOP pract 5.cpp(30,1): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\OOP pract 5\OOP pract 5\OOP pract 5.cpp(37,1): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  OOP pract 5.vcxproj -> C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\OOP pract 5\x64\Debug\OOP pract 5.exe
