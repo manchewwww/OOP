@@ -1,0 +1,7 @@
+﻿  Player.cpp
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\PreparationForTest\PreparationForTest\Player.cpp(14,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\PreparationForTest\PreparationForTest\Player.cpp(15,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\PreparationForTest\PreparationForTest\Player.cpp(30,38): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\PreparationForTest\PreparationForTest\Player.cpp(33,46): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\PreparationForTest\PreparationForTest\Player.cpp(61,34): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  PreparationForTest.vcxproj -> C:\Users\User\OneDrive\Работен плот\ФМИ\ООП\PreparationForTest\x64\Debug\PreparationForTest.exe
